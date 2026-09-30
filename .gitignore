@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+venv/
+ENV/
+
+# Archivos de compilación de PyInstaller
+build/
+dist/
+*.spec
+
+# Caché de Python y PyCharm
+__pycache__/
+*.pyc
+.idea/
